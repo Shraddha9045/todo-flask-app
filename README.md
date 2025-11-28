@@ -1,6 +1,6 @@
-# React Todo App
+# Todo App
 
-A modern, responsive todo application built with React featuring dark mode and localStorage persistence.
+A modern, responsive todo application featuring dark mode, priority management, and data persistence.
 
 ## Features
 
@@ -43,7 +43,7 @@ npm start
 
 ## Technologies Used
 
-- React 18
+- Modern JavaScript (ES6+)
 - CSS3 with Flexbox & Grid
 - LocalStorage API
-- Modern ES6+ JavaScript
+- Component-based Architecture
